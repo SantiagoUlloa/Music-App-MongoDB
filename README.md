@@ -2,7 +2,7 @@
 Spotify Music App with MongoDB
 
 -A link to the GitHub repo.
-https://github.com/sulloa13/Music-app-MongoDB
+https://github.com/sulloa13/Music-App-MongoDB
 
 -All your design decisions
 No many decisions were made, basically did the same thing I did for the main music app I did with SQL.
